@@ -1,0 +1,6 @@
+login
+fomrulario
+usuario
+contraseña
+enviar
+salir

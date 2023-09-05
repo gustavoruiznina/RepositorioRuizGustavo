@@ -1,9 +1,11 @@
 pagina principal
 
 
-menu de opciones 
+menu de listas
 
 imagenes
 
-servicios
+logos auspiciadores 
+
+fotos de ejecutivos
 salir
